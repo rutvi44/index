@@ -1,0 +1,94 @@
+body{
+    border: solid black;
+    width: 900px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+header{
+    border-bottom: solid black;
+    width: 100%;
+}
+.pic{
+    float: left;
+    height: 80px;
+    width: 80px;
+}
+.logo{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: x-large;
+   color: brown;
+   padding-left: 10%;
+   font-style: italic;
+   text-shadow: 2px 2px 5px red;
+}
+.text2{
+    padding-left: 10%;
+}
+.table{
+    width: 100%;
+}
+.divleft{
+    float: left;
+    height: 800px;
+    width: 250px;
+}
+.side{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: blue;
+}
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: crimson;
+}
+.box{
+    font-family: 'Times New Roman', Times, serif;
+    font: 70;
+    color: chocolate;
+}
+.abc{
+    color: green;
+}
+.text{
+    color: coral;
+}
+.last{
+    color: cadetblue;
+}
+a:hover{
+    color: chartreuse;
+}
+.main{
+    font-weight: bold;
+    color: chocolate;
+}
+.second{
+    font-weight: bolder;
+    color: yellow;
+}
+.third{
+    font-weight: bold;
+    color: blue;
+}
+.fourth{
+    font-weight: bold;
+    color: crimson;
+}
+.fifth{
+    font-weight: bold;
+    color: deeppink;
+}
+footer{
+    border-top: solid black;
+    font-size: small;
+    text-align: center;
+    background-color: bisque;
+    color: brown;
+}
+.final{
+    color: darkcyan;
+}
+li{
+    line-height: 1.5;
+}
